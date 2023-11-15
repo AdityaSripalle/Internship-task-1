@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<title>
+  Aditya Sripalle-Portfolio
+</title>
+
+<body>
+  <h1>Aditya Sripalle </h1>
+  <section>
+    <h2>About Me</h2>
+    <p>Hey there! 👋 I'm Aditya. A first-year CSE (B.Tech) student at CMR Technical Campus 🎓. A lifelong learner who's passionate about tech 💻. Deep diving into the world of computer science and loving every bit of it! Exploring, learning, and growing every day 📚. Excited about creating, inventing, and bringing forth innovative solutions! Would love to connect and network with like-minded tech enthusiasts. Let's change the world together! ✨🚀</p>
+    
+  </section>
+  <section>
+    <h2>skills</h2>
+    <ul>
+      <li>Creative Thinking</li>
+      <li>Problem Solving</li>
+      <li>Team Work</li>
+    </ul>
+    <section>
+      <h2>Interests</h2>
+      <ul>
+        <li>Web Development</li>
+        <li>Exploring New Techtools</li>
+        <li>Learing New Skills in my career</li>
+        </ul>
+  </section>
+    <section>
+      <h2>Projects</h2>
+      <h3>Achieving Postman API Student Expert Fundamentals<h3>
+      </section>
+        <section>
+    <p>
+      <div>
+      Enhanced Development Skills: Achieving postman API student expert fundamentals equips you with valuable skills and knowledge. This expertise allows you to develop robust and efficient software systems that can seamlessly integrate with external APIs.
+      </div>
+     <div> Becoming an API student expert requires dedication, practice, and a strong understanding of the fundamental concepts. By utilizing tools like Postman and acquiring hands-on experience, you can develop a comprehensive skill set in API development, testing, and integration. This expertise not only enhances your career prospects but also empowers you to build innovative software solutions that leverage the power of APIs fundamentals.
+     </div>
+      </p>
+      </section
+        <section>
+          <h2>Contact Information</h2>
+          <p>Email:adityasripalle@gmail.com</p>
+          <a href="https://www.linkedin.com/in/aditya-sripalle?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Link to LinkedIn Profile</a>
+        </section>
+        
+</body>
+
+</html>
